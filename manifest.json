@@ -21,13 +21,13 @@
             {
                 "light":
                 {
-                    "image": "Fuukawallpaper.png",
+                    "image": "wallpapers/Fuukawallpaper.png",
                     "text_color": "#ffffff",
                     "text_shadow": "#cccccc"
                 },
                 "dark":
                 {
-                    "image": "Fuukawallpaper.png",
+                    "image": "wallpapers/Fuukawallpaper.png",
                     "text_color": "#ffffff",
                     "text_shadow": "#cccccc"
                 }
